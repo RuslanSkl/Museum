@@ -1,0 +1,2 @@
+(0,globalThis.parcelRequire4cc0.register)("cAkXJ",function(e,l){new Swiper(".mySwiper",{autoplay:{delay:3e3,pauseOnMouseEnter:!0},loop:!0,loopFillGroupBlank:!1,slidesOffsetAfter:0,slidesPerView:1,slidesPerGroup:2,spaceBetween:16,scrollbar:{draggable:!0},pagination:{el:".swiper-pagination",clickable:!0,dynamicBullets:!0},width:280,breakpoints:{768:{slidesPerView:"auto",spaceBetween:10,width:340}}});let i=document.getElementById("link");window.screen.availWidth>=1280&&(i.href="#gallery")});
+//# sourceMappingURL=_swiper.34fe8e2f.js.map
